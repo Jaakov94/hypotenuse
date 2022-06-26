@@ -1,1 +1,1 @@
-# Counter rectangle
+# hypotenuse
